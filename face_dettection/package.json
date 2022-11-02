@@ -2,7 +2,8 @@
   "name": "face_dettection",
   "version": "0.1.0",
   "engines": {
-    "node": "16.16.0"
+    "node": "16.16.0",
+    "npm": "8.16.0"
   },
   "private": true,
   "dependencies": {
